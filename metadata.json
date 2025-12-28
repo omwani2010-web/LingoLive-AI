@@ -1,0 +1,7 @@
+{
+  "name": "LingoLive AI",
+  "description": "A real-time AI language tutor providing immersive voice conversations for natural language acquisition across multiple languages and scenarios.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
